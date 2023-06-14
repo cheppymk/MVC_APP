@@ -1,0 +1,10 @@
+﻿@model List<FirstMVCApp.Models.DogViewModel>
+
+<h1>Hello world bro!</h1>
+<p>This is the index page of hello world controler</p>
+<ul>@foreach (var dog in Model){
+    <li>@dog.Name (@dog.Age)</li>
+}
+        </ul>
+
+        
