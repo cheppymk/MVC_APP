@@ -1,34 +1,35 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using PizzaApp.Models;
+using PizzaApp.Models.Domain;
+using PizzaApp.Models.Mappers;
+using PizzaApp.Models.ViewModels.OrderViewModels;
 
 namespace PizzaApp.Controllers
 {
     public class OrderController : Controller
     {
-        [Route("ListOrders")]
         public IActionResult Index()
         {
-            return View();
+            List<Order> ordersDb = StaticDb.Orders;
+
+            ViewData["Message"] = $"The number of orders is: {ordersDb.Count}";
+            ViewData["Title"] = "Order list";
+            ViewData["Date"] = DateTime.Now.ToShortDateString();
+
+            List<OrderListViewModel> orderList = ordersDb.Select(x => x.MapFromOrderToOrderListViewModel()).ToList();
+
+            return View(orderList);
         }
-        [Route("[controller]/Details/{id?}")]
+
         public IActionResult Details(int? id)
         {
-            if (id == null)
-                return new EmptyResult();
+            Order orderDb = StaticDb.Orders.FirstOrDefault(o => o.Id == id);
 
-            ViewBag.OrderId = id;
-            return View();
-        }
-        [Route("[controller]/JsonData")]
-        public IActionResult JsonData()
-        {
-            var model = new ExampleModel { Id = 1, Name = "Example" };
-            return Json(model);
-        }
-        public IActionResult GoToHome()
-        {
-            return RedirectToAction("Index", "Home");
-        }
+            OrderListViewModel orderDetails = orderDb.MapFromOrderToOrderListViewModel();
 
+            ViewBag.Message = "You are on the order details page";
+            ViewBag.User = orderDb.User;
+            ViewData["User"] = orderDb.User;
+            return View(orderDetails);
+        }
     }
 }

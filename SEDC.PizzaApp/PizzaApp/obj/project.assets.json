@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\mkwd11-net-08-aspnetmvc\\G1\\Class02\\SEDC.PizzaApp\\PizzaApp\\PizzaApp.csproj",
+      "projectUniqueName": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\SEDC.PizzaApp\\PizzaApp\\PizzaApp.csproj",
       "projectName": "PizzaApp",
-      "projectPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\mkwd11-net-08-aspnetmvc\\G1\\Class02\\SEDC.PizzaApp\\PizzaApp\\PizzaApp.csproj",
+      "projectPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\SEDC.PizzaApp\\PizzaApp\\PizzaApp.csproj",
       "packagesPath": "C:\\Users\\tosom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\mkwd11-net-08-aspnetmvc\\G1\\Class02\\SEDC.PizzaApp\\PizzaApp\\obj\\",
+      "outputPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\SEDC.PizzaApp\\PizzaApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tosom\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

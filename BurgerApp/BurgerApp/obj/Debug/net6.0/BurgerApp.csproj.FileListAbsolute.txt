@@ -1,0 +1,8 @@
+C:\Users\tosom\OneDrive\Documents\GitHub\MVC_APP\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.csproj.AssemblyReference.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\MVC_APP\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosom\OneDrive\Documents\GitHub\MVC_APP\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.AssemblyInfoInputs.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\MVC_APP\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.AssemblyInfo.cs
+C:\Users\tosom\OneDrive\Documents\GitHub\MVC_APP\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.csproj.CoreCompileInputs.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\MVC_APP\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\MVC_APP\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.RazorAssemblyInfo.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\MVC_APP\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.RazorAssemblyInfo.cs

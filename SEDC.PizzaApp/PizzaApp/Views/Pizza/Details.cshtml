@@ -1,0 +1,26 @@
+﻿@model PizzaDetailsViewModel
+
+<h2>@Model.Name</h2>
+<img src="@Model.ImageUrl" style="width: 500px;" />
+<h2>Price: @Model.Price denars.</h2>
+
+<h4>@Model.Name</h4>
+@if (Model.IsOnPromotion)
+{
+    <h4>This pizza is on promotion!</h4>
+}
+else
+{
+    <h4>This pizza is not on promotion.</h4>
+}
+
+<br />
+
+<partial name="~/Views/Shared/Partials/_PizzaDetailsPartial.cshtml" for="@Model" />
+﻿
+
+<div class="singlePizzaDiv">
+
+    <partial name="~/Views/Shared/Partials/_PizzaInfoPartial.cshtml" />
+
+</div>

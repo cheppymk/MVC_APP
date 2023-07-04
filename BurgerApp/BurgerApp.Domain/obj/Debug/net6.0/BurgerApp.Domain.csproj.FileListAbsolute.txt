@@ -1,0 +1,5 @@
+C:\Users\tosom\OneDrive\Documents\GitHub\MVC_APP\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.csproj.AssemblyReference.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\MVC_APP\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosom\OneDrive\Documents\GitHub\MVC_APP\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfoInputs.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\MVC_APP\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.AssemblyInfo.cs
+C:\Users\tosom\OneDrive\Documents\GitHub\MVC_APP\BurgerApp\BurgerApp.Domain\obj\Debug\net6.0\BurgerApp.Domain.csproj.CoreCompileInputs.cache
