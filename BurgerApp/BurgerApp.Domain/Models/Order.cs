@@ -1,16 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BurgerApp.Domain.Models
+﻿namespace BurgerApp.Domain.Models
 {
     public class Order : BaseEntity
     {
-        public string FullName { get; set; }
-        public string Address { get; set; }
+        public string FullName { get; set; } = string.Empty;
+        public string Address { get; set; } = string.Empty;
         public bool IsDelivered { get; set; }
-        public List<Burger> Burgers { get; set; }
+        public List<OrderBurger> OrderBurger { get; set; } = new List<OrderBurger>();
+        public Location Location { get; set; }
+        public int LocationId { get; set; }
+
     }
 }

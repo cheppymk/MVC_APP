@@ -1159,11 +1159,6 @@
       "BurgerApp.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "7.0.8",
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.8",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
-        },
         "compile": {
           "bin/placeholder/BurgerApp.Domain.dll": {}
         },
@@ -3528,8 +3523,7 @@
       "Microsoft.EntityFrameworkCore >= 7.0.8",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.8",
-      "Microsoft.EntityFrameworkCore.Tools >= 7.0.8",
-      "Microsoft.Extensions.DependencyInjection.Abstractions >= 7.0.0"
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.8"
     ]
   },
   "packageFolders": {
@@ -3538,11 +3532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
       "projectName": "BurgerApp.DataAccess",
-      "projectPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
+      "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
       "packagesPath": "C:\\Users\\tosom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tosom\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3559,8 +3553,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
+            "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
             }
           }
         }
@@ -3594,10 +3588,6 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[7.0.8, )"
-          },
-          "Microsoft.Extensions.DependencyInjection.Abstractions": {
-            "target": "Package",
-            "version": "[7.0.0, )"
           }
         },
         "imports": [
