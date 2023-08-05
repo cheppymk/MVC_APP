@@ -7,9 +7,9 @@ namespace BurgerApp.App.Controllers
 {
     public class OrderController : Controller
     {
-        private IOrderService _orderService;
-        private ILocationService _locationService;
-        private IBurgerService _burgerService;
+        private readonly IOrderService _orderService;
+        private readonly ILocationService _locationService;
+        private readonly IBurgerService _burgerService;
 
         public OrderController(IOrderService _orderService, ILocationService _locationService, IBurgerService _burgerService)
         {

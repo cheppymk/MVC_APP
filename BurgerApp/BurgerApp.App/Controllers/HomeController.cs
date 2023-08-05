@@ -7,7 +7,7 @@ namespace BurgerApp.App.Controllers
 {
     public class HomeController : Controller
     {
-        private IBurgerService _burgerService;
+        private readonly IBurgerService _burgerService;
 
         public HomeController(ILogger<HomeController> logger, IBurgerService _burgerService)
         {

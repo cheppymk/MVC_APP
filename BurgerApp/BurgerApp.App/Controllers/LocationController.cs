@@ -7,7 +7,7 @@ namespace BurgerApp.App.Controllers
 {
     public class LocationController : Controller
     {
-        private ILocationService _locationService;
+        private readonly ILocationService _locationService;
 
         public LocationController(ILocationService _locationService)
         {

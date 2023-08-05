@@ -6,7 +6,7 @@ namespace BurgerApp.App.Controllers
 {
     public class BurgerController : Controller
     {
-        private IBurgerService _burgerService;
+        private readonly IBurgerService _burgerService;
 
         public BurgerController(IBurgerService _burgerService)
         {
