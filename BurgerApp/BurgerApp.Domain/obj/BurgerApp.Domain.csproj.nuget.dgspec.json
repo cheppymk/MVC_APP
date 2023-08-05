@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {}
+    "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+    "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
         "projectName": "BurgerApp.Domain",
-        "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
+        "projectPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
         "packagesPath": "C:\\Users\\tosom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tosom\\AppData\\Roaming\\NuGet\\NuGet.Config",

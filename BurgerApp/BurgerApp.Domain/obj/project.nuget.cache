@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o1YmJ9/Ghy30kUxnC3Vs8V48xwzZJ7uMOad4Kme9lsPjYhJQ3nhGUU3A7B+ZLkTWL7IXrpwU2X1msov28K3gsg==",
+  "dgSpecHash": "Zx+OMMMEsN8YZ6Ba3Xk1X34QdRMo2X1ym0AjhmsTs6Rqpeyuok5G5EZZgHxUIqwgHRMuLZY/9wlDolNPLs8CdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

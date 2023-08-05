@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Shared\\BurgerApp.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.Shared\\BurgerApp.Shared.csproj",
       "projectName": "BurgerApp.Shared",
-      "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Shared\\BurgerApp.Shared.csproj",
+      "projectPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.Shared\\BurgerApp.Shared.csproj",
       "packagesPath": "C:\\Users\\tosom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Shared\\obj\\",
+      "outputPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tosom\\AppData\\Roaming\\NuGet\\NuGet.Config",

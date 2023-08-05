@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kKCQFtsVnrSrhGwMM7G7S/JjlxFTyeftATr05PTWzQ9257LfPis0Vz3JOh5CM9Wq6f62KJ14wXaCzeTXSbaSsg==",
+  "dgSpecHash": "BcQ4I4rUjJrp/wTf2YkH227AlS9gSjUe44ru5Oe8+cWmeHSEpVSgmF62m+uhwmlB6uNJ2Op3o+stLLbh+pDHjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.App\\BurgerApp.App.csproj",
+  "projectFilePath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.App\\BurgerApp.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tosom\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\tosom\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

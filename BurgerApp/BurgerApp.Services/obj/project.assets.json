@@ -3302,11 +3302,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj",
+      "projectUniqueName": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj",
       "projectName": "BurgerApp.Services",
-      "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj",
+      "projectPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj",
       "packagesPath": "C:\\Users\\tosom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Services\\obj\\",
+      "outputPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tosom\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3323,14 +3323,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj"
+            "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj"
             },
-            "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj": {
-              "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj"
+            "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj": {
+              "projectPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj"
             },
-            "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj": {
-              "projectPath": "C:\\Users\\tosom\\OneDrive\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj"
+            "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\tosom\\OneDrive\\Documents\\GitHub\\MVC_APP\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj"
             }
           }
         }
